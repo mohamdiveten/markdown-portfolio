@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](https://cdn.turkishairlines.com/m/60a6c607a97abb2e/original/Travel-Guide-of-Nouakchott-via-Turkish-Airlines.jpg)
