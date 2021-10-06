@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Nouakchott
+2. Nouadhibou
+3. Zouerat
